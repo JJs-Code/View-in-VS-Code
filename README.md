@@ -1,4 +1,4 @@
-A chromium extension that quickly allows users to open GtHub repositories in the VS Code online viewer
+A chromium extension that quickly allows users to open GitHub repositories in the VS Code online viewer
 
 Adds an option to the context menu when on a GiHub page that allows you to quickly swap to the VS Code online viewer
 Clicking the extension icon when on a GitHub repository will also activate the extension
