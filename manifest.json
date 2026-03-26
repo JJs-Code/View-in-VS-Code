@@ -2,6 +2,7 @@
   "manifest_version": 3,
   "name": "GitHub View in VS Code",
   "version": "1.0",
+  "description": "Quickly open GitHub repositories in the VS Code online viewer",
 
   "permissions": [
     "contextMenus",
